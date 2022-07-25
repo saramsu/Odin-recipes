@@ -1,0 +1,5 @@
+* {
+    font-family: fantasy;
+    background: rgb(238,225,174);
+    background: radial-gradient(circle, rgba(238,225,174,1) 0%, rgba(148,160,233,1) 100%); ;
+}
